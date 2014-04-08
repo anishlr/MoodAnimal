@@ -178,9 +178,10 @@ hr {
 
 footer {
   width:270px;
-  margin-left: auto;
-  margin-right: auto;
   bottom:50px;
+  position: fixed;
+  left: 50%;
+  margin: 0 0 0 -37.5%;
 }
 
 @media print, screen and (max-width: 960px) {
