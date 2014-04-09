@@ -217,6 +217,7 @@ footer {
   width: 80%;
   margin-left: auto;
   margin-right: auto;
+  font-size: 15em;
 }
 
 @media print, screen and (max-width: 960px) {
