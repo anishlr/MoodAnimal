@@ -280,9 +280,8 @@ div.content {
 }
 
 footer {
-  position: absolute;
   margin: 0px auto;
-  margin:left 20em;
+  width: 100%;
   bottom: 15px;
   text-align: center;
 }
