@@ -911,7 +911,7 @@ var animals = [
 "Leadbeateri's Ground Hornbill",
 "Least Chipmunk",
 "Kafue Flats Lechwe",
-"Monitor  Legaan(unidentified",.
+"Monitor  Legaan",
 "Ground Legaan",
 "Water Legaan",
 "Arctic Lemming",
