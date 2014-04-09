@@ -1623,7 +1623,7 @@ var animals = [
 "Plains Zebra",
 "Zorilla",
 "Azara's Zorro",
-"Common Zorro",
+"Common Zorro"
 ];
 
 function getRandomMood() : var {
