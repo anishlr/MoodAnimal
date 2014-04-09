@@ -250,7 +250,7 @@ button::-moz-focus-inner {
 
 /* Credits - http://stackoverflow.com/a/6182661/1383051 */
 div.frameT {
-  width: 900px;
+  width: 100%;
   padding: 0;
   display: table;
   height: 100%;
@@ -270,7 +270,7 @@ div.frameTC {
 
 /* Credits - http://stackoverflow.com/a/6182661/1383051 */
 div.content {
-  width: 100%
+  width: 900px;
   background-color: #fff;
   margin: 0 auto;
   text-align: center;
