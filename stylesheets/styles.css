@@ -283,6 +283,7 @@ footer {
   margin: 0px auto;
   width: 900px;
   margin-top 200px;
+  text-align: center;
 }
 
 @media print, screen and (max-width: 960px) {
