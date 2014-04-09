@@ -90,7 +90,6 @@ var moods = [
     "Morose",
     "Naughty",
     "Nerdy",
-    "Not Specified",
     "Numb",
     "Okay",
     "Optimistic",
