@@ -270,7 +270,7 @@ div.frameTC {
 
 /* Credits - http://stackoverflow.com/a/6182661/1383051 */
 div.content {
-  width: 900px;
+  width: 100%
   background-color: #fff;
   margin: 0 auto;
   text-align: center;
