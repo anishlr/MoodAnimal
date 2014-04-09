@@ -239,11 +239,30 @@ button::-moz-focus-inner {
     border: 0;
 }
 
-div.generatedDisplay {
-  font-size: 32px;
-  margin-bottom: 15px;
-  height: 400px;
-  vertical-align: middle;
+div.frameT {
+	width: 100%;
+	padding: 0;
+	display: table;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	margin: 0;
+}
+
+div.frameTC {
+	padding: 0;
+	vertical-align: middle;
+	display: table-cell;
+	margin: 0;
+}
+
+div.content {
+	width: 600px;
+	background-color: #fff;
+	margin: 0 auto;
+	text-align: left;
+	padding: 10px;
 }
 
 footer {
