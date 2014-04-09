@@ -1626,14 +1626,14 @@ var animals = [
 "Common Zorro"
 ];
 
-function getRandomMood() : var {
+function getRandomMood() {
     return moods[Math.floor(Math.random()*moods.length)];
 }
 
-function getRandomAnimal() : var {
+function getRandomAnimal() {
     return animals[Math.floor(Math.random()*animals.length)];
 }
 
-function getRandomMoodAnimal(): var {
+function getRandomMoodAnimal() {
     return getRandomMood() + " " + getRandomAnimal();
 }
