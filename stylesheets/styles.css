@@ -286,7 +286,7 @@ div.content {
 
 header.maintainedBy {
   margin: 0px auto;
-  /*width: 100%;*/
+  margin-left: 21em;
   bottom: 15px;
   text-align: center;
 }
