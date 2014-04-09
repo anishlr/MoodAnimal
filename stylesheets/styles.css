@@ -181,9 +181,10 @@ button {
   position: relative;
   overflow: visible;
   display: inline-block;
-  padding: 5em 1em;
+  padding: 0.5em 1em;
   border: 1px solid #d4d4d4;
   margin: 0;
+  margin-top: 5em;
   text-decoration: none;
   text-align: center;
   text-shadow: 1px 1px 0 #fff;
@@ -268,6 +269,7 @@ div.frameTC {
 
 /* Credits - http://stackoverflow.com/a/6182661/1383051 */
 div.content {
+  width: 900px;
   background-color: #fff;
   margin: 0 auto;
   text-align: left;
