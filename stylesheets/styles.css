@@ -242,6 +242,7 @@ button::-moz-focus-inner {
 div.generatedDisplay {
   font-size: 32px;
   margin-bottom: 15px;
+  height: 400px;
 }
 
 footer {
