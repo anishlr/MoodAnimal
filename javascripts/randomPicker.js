@@ -1635,5 +1635,5 @@ function getRandomAnimal() : var {
 }
 
 function getRandomMoodAnimal(): var {
-    return getRandomMood();
+    return getRandomMood() + " " + getRandomAnimal();
 }
