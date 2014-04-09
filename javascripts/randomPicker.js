@@ -136,7 +136,7 @@ var animals = [
 "African Darter",
 "African Elephant",
 "African Fish Eagle",
-"African Ground Squirrel",.
+"African Ground Squirrel",
 "African Jacana",
 "African Lion",
 "African Lynx",
