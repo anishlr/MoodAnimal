@@ -250,7 +250,7 @@ button::-moz-focus-inner {
 
 /* Credits - http://stackoverflow.com/a/6182661/1383051 */
 div.frameT {
-  width: 100%;
+  width: 900px;
   padding: 0;
   display: table;
   height: 100%;
