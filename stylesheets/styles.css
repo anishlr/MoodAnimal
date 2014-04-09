@@ -100,7 +100,7 @@ img {
   max-width:100%;
 }
 
-header {
+header, footer {
   width:270px;
   float:left;
   position:fixed;
@@ -284,10 +284,10 @@ div.content {
   color: #4c4c4c;
 }
 
-header.maintainedBy {
+footer {
   margin: 0px auto;
   margin-left: 21em;
-  bottom: 15px;
+  bottom: 50px;
   text-align: center;
 }
 
