@@ -209,6 +209,7 @@ button {
 }
 
 /* Credits - https://github.com/necolas/css3-github-buttons/blob/master/gh-buttons.css */
+button,
 button:hover,
 button:focus,
 button:active,
