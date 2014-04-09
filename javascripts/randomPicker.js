@@ -148,7 +148,7 @@ var animals = [
 "African Snake",
 "African Wild Cat",
 "African Wild Dog",
-"Agama Lizard",.
+"Agama Lizard",
 "Agile Wallaby",
 "Agouti",
 "Galapagos Albatross",
@@ -156,7 +156,7 @@ var animals = [
 "American Alligator",
 "Mississippi Alligator",
 "Alpaca",
-"Amazon Parrot",.
+"Amazon Parrot",
 "American Virginia Opossum",
 "American Alligator",
 "American Badger",
@@ -169,7 +169,7 @@ var animals = [
 "American Marten",
 "American Racer",
 "American Woodcock",
-"Anaconda",.
+"Anaconda",
 "Andean Goose",
 "Ant",
 "Australian Spiny Anteater",
@@ -246,7 +246,7 @@ var animals = [
 "Eurasian Beaver",
 "European Beaver",
 "North American Beaver",
-"Bee-eater",.
+"Bee-eater",
 "Carmine Bee-eater",
 "Nubian Bee-eater",
 "White-fronted Bee-eater",
@@ -414,7 +414,7 @@ var animals = [
 "Cattle Egret",
 "Cereopsis Goose",
 "Chacma Baboon",
-"Chameleon",.
+"Chameleon",
 "Cheetah",
 "Chestnut Weaver",
 "Black-capped Chickadee",
@@ -431,7 +431,7 @@ var animals = [
 "Mocking Cliffchat",
 "Ring-tailed Coatimundi",
 "White-nosed Coatimundi",
-"Cobra",.
+"Cobra",
 "Cape Cobra",
 "Egyptian Cobra",
 "Long-billed Cockatoo",
@@ -524,13 +524,13 @@ var animals = [
 "Crowned Hawk-eagle",
 "Cuis",
 "Black Curlew",
-"Currasow",.
+"Currasow",
 "Curve-billed Thrasher",
 "Dabchick",
 "Dama Wallaby",
 "Dark-winged Trumpeter",
 "African Darter",
-"Darwin Ground Finch",.
+"Darwin Ground Finch",
 "Dassie",
 "Barasingha Deer",
 "Black-tailed Deer",
@@ -583,7 +583,7 @@ var animals = [
 "Fat-tailed Dunnart",
 "Dusky Gull",
 "Dusky Rattlesnake",
-"Eagle Owl",.
+"Eagle Owl",
 "African Fish Eagle",
 "Bald Eagle",
 "Bateleur Eagle",
@@ -615,7 +615,7 @@ var animals = [
 "Elegant Crested Tinamou",
 "African Elephant",
 "Asian Elephant",
-"Eleven-banded Armadillo",.
+"Eleven-banded Armadillo",
 "Wapiti Elk",
 "Emerald Green Tree Boa",
 "Emerald-spotted Wood Dove",
@@ -673,7 +673,7 @@ var animals = [
 "Frilled Dragon",
 "Frilled Lizard",
 "Fringe-eared Oryx",
-"Frog",.
+"Frog",
 "Tawny Frogmouth",
 "Galah",
 "Galapagos Albatross",
@@ -698,7 +698,7 @@ var animals = [
 "Common Genet",
 "Small-spotted Genet",
 "Genoveva",
-"Gerbil",.
+"Gerbil",
 "Gerenuk",
 "Giant Anteater",
 "Giant Armadillo",
@@ -711,9 +711,9 @@ var animals = [
 "Squirrel Glider",
 "Sugar Glider",
 "Glossy Ibis",
-"Glossy Starling",.
+"Glossy Starling",
 "Brindled Gnu",
-"Goanna Lizard",.
+"Goanna Lizard",
 "Mountain Goat",
 "Hudsonian Godwit",
 "Golden Brush-tailed Possum",
@@ -770,8 +770,8 @@ var animals = [
 "Griffon Vulture",
 "Grison",
 "Grizzly Bear",
-"Ground Legaan",.
-"Ground Monitor",.
+"Ground Legaan",
+"Ground Monitor",
 "Groundhog",
 "Greater Sage Grouse",
 "Sage Grouse",
@@ -785,7 +785,7 @@ var animals = [
 "Silver Gull",
 "Southern Black-backed Gull",
 "Swallow-tail Gull",
-"Gulls",.
+"Gulls",
 "Hanuman Langur",
 "Harbor Seal",
 "Arctic Hare",
@@ -900,7 +900,7 @@ var animals = [
 "Gray Langur",
 "Hanuman Langur",
 "Lappet-faced Vulture",
-"Lapwing",.
+"Lapwing",
 "Southern Lapwing",
 "Large Cormorant",
 "Large-eared Bushbaby",
@@ -911,8 +911,8 @@ var animals = [
 "Leadbeateri's Ground Hornbill",
 "Least Chipmunk",
 "Kafue Flats Lechwe",
-"Monitor  Legaan(unidentified",).
-"Ground Legaan",.
+"Monitor  Legaan(unidentified",.
+"Ground Legaan",
 "Water Legaan",
 "Arctic Lemming",
 "Collared Lemming",
@@ -952,7 +952,7 @@ var animals = [
 "Desert Spiny Lizard",
 "Frilled Lizard",
 "Giant Girdled Lizard",
-"Goanna Lizard",.
+"Goanna Lizard",
 "Mexican Beaded Lizard",
 "Llama",
 "Long-billed Cockatoo",
@@ -1017,7 +1017,7 @@ var animals = [
 "Javan Gold-spotted Mongoose",
 "Small Indian Mongoose",
 "Yellow Mongoose",
-"Monitor Lizard",.
+"Monitor Lizard",
 "Two-banded Monitor",
 "Water Monitor",
 "White-throated Monitor",
@@ -1504,7 +1504,7 @@ var animals = [
 "Verreaux's Sifaka",
 "Vervet Monkey",
 "Vicuna",
-"Vine Snake",.
+"Vine Snake",
 "Violet-crested Turaco",
 "Violet-eared Waxbill",
 "Egyptian Viper",
@@ -1529,7 +1529,7 @@ var animals = [
 "Whip-tailed Wallaby",
 "Common Wallaroo",
 "Red-tailed Wambenger",
-"Elk Wapiti",,
+"Elk Wapiti",
 "Warthog",
 "Water Legaan",
 "Water Moccasin",
@@ -1603,9 +1603,9 @@ var animals = [
 "American Woodcock",
 "Downy Woodpecker",
 "Red-headed Woodpecker",
-"Woodrat",.
+"Woodrat",
 "Woolly-necked Stork",
-"Worm Snake",.
+"Worm Snake",
 "Woylie",
 "Yak",
 "Yellow Baboon",
